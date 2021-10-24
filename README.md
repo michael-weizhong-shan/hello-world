@@ -1,2 +1,2 @@
-# hello-world
-For learning Java programming
+# Zodiac Sign Calculation
+A `Hello world!` type of Java program for calculating the Chinese zodiac sign of a given year...
