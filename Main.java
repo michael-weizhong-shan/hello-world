@@ -10,6 +10,6 @@ public class Main {
 
         //Calculate the zodiac for the year and then return it to user
         zodiac zodiacObj = new zodiac();
-        System.out.println("The zodiac for the year of " + sourceYear + " is " + zodiac.calZodiac(sourceYear) + ".");
+        System.out.println("The zodiac for the year of " + sourceYear + " is " + zodiacObj.calZodiac(sourceYear) + ".");
     }
 }
